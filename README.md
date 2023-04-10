@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I'm exploring the exciting world of MERN Stack and its superpowers<br>👯  I'm on a mission to become a coding wizard and enter the thrilling realm of software engineering<br>🌱currently sharpening my coding claws at the Sri Lanka Institute of Information Technology<br>💬 When I'm not coding up a storm, you can find me jamming out and producing sick beats. Music is my passion<br>⚡ Whether I'm composing code or composing tunes, I'm always in my element, tapping into the power of creativity and the joy of bringing ideas to fruition
+🔭  I'm currently exploring the exciting world of MERN Stack and its superpowers<br>👯  I'm on a mission to become a coding wizard and enter the thrilling realm of software engineering<br>🌱currently sharpening my coding claws at the Sri Lanka Institute of Information Technology<br>💬 When I'm not coding up a storm, you can find me jamming out and producing sick beats. Music is my passion<br>⚡ Whether I'm composing code or composing tunes, I'm always in my element, tapping into the power of creativity and the joy of bringing ideas to fruition
 
 
 ## 🌐 Socials:
