@@ -41,7 +41,7 @@ I build intelligent systems that feel **human**—from LLM‑powered chatbots to
 
 ## 🌐 Social
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=LinkedIn\&logoColor=white)](https://linkedin.com/in/mihisarajayasinghe) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=LinkedIn\&logoColor=white)](https://www.linkedin.com/in/mihisara-jayasinghe-b1266b215/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=Instagram\&logoColor=white)](https://instagram.com/mihisarajayasinghej)
 
 ---
