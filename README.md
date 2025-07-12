@@ -1,27 +1,106 @@
-# 💫 About Me:
-🔭  I'm currently exploring the exciting world of MERN Stack and its superpowers<br>👯  I'm on a mission to become a coding wizard and enter the thrilling realm of software engineering<br>🌱currently sharpening my coding claws at the Sri Lanka Institute of Information Technology<br>💬 When I'm not coding up a storm, you can find me jamming out and producing sick beats. Music is my passion<br>⚡ Whether I'm composing code or composing tunes, I'm always in my element, tapping into the power of creativity and the joy of bringing ideas to fruition
+# Mihisara Jayasinghe
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-MERN-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Dev-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Beats-Music%20Producer-0A66C2?style=for-the-badge" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mihisarajayasinghej) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mihisara Jayasinghe) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MihisaraJayasinghe&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MihisaraJayasinghe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MihisaraJayasinghe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MihisaraJayasinghe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MihisaraJayasinghe&limit=5&theme=dark&combine_all_yearly_contributions=true)
+> *“Turning research into products & silence into sound.”*
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MihisaraJayasinghe&icon=6&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔎 Snapshot
+
+|                         |                                                                         |
+| ----------------------- | ----------------------------------------------------------------------- |
+| **🎓 Education**        | Final-year Software Engineering undergraduate at **SLIIT**              |
+| **🚀 Mission**          | Ship AI‑driven products that feel effortless for users                  |
+| **🎧 Creative Outlet**  | Produce electronic & hip‑hop tracks between commits                     |
+| **🧑‍💻 Current Focus** | Vision‑language models ▪️ Conversational UX ▪️ Dockerized microservices |
+
+---
+
+## 🤖 Current AI Projects
+
+<details>
+<summary><b>EssayGrader.ai &nbsp;|&nbsp; Real‑time English essay autograder</b></summary>
+<br>
+Built a WebSocket‑driven FastAPI service that corrects grammar, scores vocabulary/creativity, and streams feedback instantly. Deployed to Azure with GitHub Actions.
+
+**Stack:** FastAPI · Hugging Face Transformers · Docker · Azure
+
+</details>
+
+<details>
+<summary><b>Smart Parking Vision &nbsp;|&nbsp; Edge‑ready parking & plate detector</b></summary>
+<br>
+YOLOv5‑powered detection of vacant slots plus OCR plate readouts, optimized for Raspberry Pi. Frontend dashboard streams live detections via WebSockets.
+
+**Stack:** Python·YOLOv5 · OpenCV · React · WebSockets
+
+</details>
+
+<details>
+<summary><b>Mocturne Recommender &nbsp;|&nbsp; Mood‑based outfits & books</b></summary>
+<br>
+Next.js web app that queries OpenAI + Supabase and returns shoppable outfits & reading picks, complete with AI‑generated imagery.
+
+**Stack:** Next.js · OpenAI API · Supabase
+
+</details>
+
+<details>
+<summary><b>Sinhalese Sentiment &nbsp;|&nbsp; Low‑resource NLP finetune</b></summary>
+<br>
+Fine‑tuned a multilingual BERT variant on curated Sinhala tweets to achieve state‑of‑the‑art sentiment classification.
+
+**Stack:** PyTorch · Hugging Face · Weights & Biases
+
+</details>
+
+---
+
+## 🛠️  Tech Toolbox
+
+<p>
+  <kbd>Python</kbd> · <kbd>PyTorch</kbd> · <kbd>TensorFlow</kbd> · <kbd>scikit‑learn</kbd> · <kbd>FastAPI</kbd> · <kbd>LangChain</kbd>  
+  <kbd>JavaScript / TypeScript</kbd> · <kbd>React</kbd> · <kbd>Next.js</kbd> · <kbd>Node.js</kbd> · <kbd>Express</kbd> · <kbd>MongoDB</kbd>  
+  <kbd>Docker</kbd> · <kbd>Azure</kbd> · <kbd>Git/GitHub Actions</kbd>  
+  <kbd>Figma</kbd> · <kbd>Blender</kbd>
+</p>
+
+---
+
+## 🌐 Social
+
+<p>
+  <a href="https://linkedin.com/in/mihisarajayasinghe">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/mihisarajayasinghej">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MihisaraJayasinghe&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MihisaraJayasinghe&theme=tokyonight&hide_border=true" height="170" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihisaraJayasinghe&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=MihisaraJayasinghe&icon=6&color=0A66C2" />
+  </a>
+</p>
+
+<sub align="center">Last updated · July 2025</sub>
